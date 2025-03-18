@@ -1,2 +1,2 @@
 # Netflix_Clone-Html-Css-
-HTML + CSS project
+HTML + CSS practice project
