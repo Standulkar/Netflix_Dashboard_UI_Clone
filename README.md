@@ -1,2 +1,2 @@
-# Netflix_Clone-Html-Css-
+# Netflix_Dashboard_UI_Clone-Html-Css-
 HTML + CSS practice project
